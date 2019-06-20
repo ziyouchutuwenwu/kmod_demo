@@ -12,8 +12,6 @@ patch -p1 < ../xxx.patch
 ```
 general setup
 local version， 这里填写uname -r的结果
-勾选kernel .config support
-勾选enable access to .config through /proc/config.gz
 ```
 - 复制symbol
 ```
